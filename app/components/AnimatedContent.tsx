@@ -80,7 +80,7 @@ export default function AnimatedContent() {
 
           <Carousel />
           <Link href={"/realisations"}>
-            <a>Voir nos réalisations</a>
+          Voir nos réalisations
           </Link>
         </div>
         <p className="pt-11 text-center text-gray-400 text-xl italic">
